@@ -145,5 +145,8 @@
   <ItemGroup>
     <None Include="Resources\cake.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="uinh\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
